@@ -1,9 +1,0 @@
-streamlit
-pyngrok
-sentence-transformers
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
-requests
